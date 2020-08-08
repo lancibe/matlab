@@ -1,1 +1,1 @@
-This repository is for 2020 CUMCM.
+This repository is for 2020 CUMCM training.
