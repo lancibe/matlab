@@ -26,7 +26,7 @@ lamuda=1/1.5;
 
 % 获取可以接受的最大m0
 m0=45*Omiga*miu*lamuda*n/(60*omiga);
-disp('m0=');
+disp('方案一可以接受的蓄车池出租车数量');
 disp(m0);
 
 if m<m0
