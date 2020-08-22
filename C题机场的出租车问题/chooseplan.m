@@ -14,7 +14,7 @@ y=passenger(j,2)*(2912.93/58565.4)*10000;
 % 读取第i时司机平均收入
 income=xlsread('出租车每小时收益.xlsx');
 omiga=income(i+1,2)/60;
-Omiga=max(income(:,2))/60;
+Omiga=1.417;
 
 
 
